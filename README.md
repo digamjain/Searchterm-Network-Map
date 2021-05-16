@@ -53,5 +53,17 @@ It uses the search term entered to form a network map with the information avail
  - alternatively to the above step you can also create a file named secrets.toml under .streamlit in the current directory and fill in the necessary fields
  - streamlit run run.py
 ```
+## Features
+```
+- Uses cloub database hence easily scalable even after continous deployment
+- Interactive nodes and edges
+- Nodes show neighbours information when mouse hovers over them
+- Edges widths are accoding to its relationship strength with the nodes
+- Map limited to 3 level relations though easily upgradable/downgradeable
+- Easy to navigate the nodes
+- Easy to use and understand webapp
+- Generates output network map on an HTML file when deployed locally
+- Generates data and relation strength in csv form when deployed locally
+``` 
 ## Restraints
 Currently the database only has 'car' information thus other searches won't return a network map.
