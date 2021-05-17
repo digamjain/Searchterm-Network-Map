@@ -50,7 +50,7 @@ pillow==8.2.0
 prometheus-client==0.10.1
 prompt-toolkit==3.0.18
 protobuf==3.17.0
-psycopg2
+psycopg2-binary
 ptyprocess==0.7.0
 pyarrow==4.0.0; python_version < '3.9'
 pycparser==2.20
