@@ -570,7 +570,7 @@
                 "sha256:fb23f6c71107c37fd667cb4ea363ddeb936b348bbd6449278eb92c189699f543"
             ],
             "index": "pypi",
-            "version": "==2.8.6"
+            "version": "==2.8.5"
         },
         "ptyprocess": {
             "hashes": [
