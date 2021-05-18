@@ -26,6 +26,9 @@
 
 **Searchterm Network Map** is a deployable webapp keyword mapper. <br>
 It uses the search term entered to form a network map with the information available to it and is stored in its database.
+<a href="https://share.streamlit.io/digamjain/searchterm-network-map/main/run.py">
+    <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg"/></a><br>
+(Try searching for 'Car')
 
 ## Tools & Frameworks
 ```
