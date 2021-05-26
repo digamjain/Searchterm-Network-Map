@@ -22,7 +22,7 @@
   
  </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/ritikverma2000/Search-Term-NetworkTree/master/1editing.gif?token=AKDYWELWJ2ND6OEZWRVVAATAVKJWA"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/digamjain/temp_storage/main/homepage.png?token=AKDYWELPBYXNVLDHAUYHWFDAW5IMU"></p>
 
 **Searchterm Network Map** is a deployable webapp keyword mapper. <br>
 It uses the search term entered to form a network map with the information available to it and is stored in its database.
