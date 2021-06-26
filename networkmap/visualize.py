@@ -13,13 +13,13 @@ def ret1(searchterm):
     got_data.sort_values("weight", inplace = True,ascending = False)
     got_data.drop_duplicates(subset = ["NAME","TAG","CEO","OWNER","FOUNDER","HEADQUARTER"],keep = "first", inplace = True)
 
-    '''tags = got_data['TAG']
+    tags = got_data['TAG']
     name = got_data['NAME']
     ceo = got_data['CEO']
     owner = got_data['OWNER']
     founder = got_data['FOUNDER']
     hq = got_data['HEADQUARTER']
-    weight = got_data['weight']'''
+    weight = got_data['weight']
 
     tags = list(tags)
     lstlen = len(list(tags))
